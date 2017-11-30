@@ -1,0 +1,1 @@
+sqlcmd -S  KOCBETON\SQLEXPRESS -U sa -P Koc123! -i "D:\LOGO YEDEK\OtoYedek.sql"
